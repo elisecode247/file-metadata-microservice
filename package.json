@@ -1,0 +1,15 @@
+{
+  "name": "file-metadata-microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "repository": "",
+  "author": "Elise Straub",
+  "dependencies": {
+    "express": "~3.2.4",
+    "multer": "^1.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.1"
+  }
+}
